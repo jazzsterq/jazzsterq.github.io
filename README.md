@@ -24,7 +24,7 @@
 
 --- 
 
-## <picture> <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/jazzsterq"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -88,7 +88,7 @@
 
 ---
 
-## <picture> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> </picture> My Achievements
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> My Achievements
 
 <br>
 * **July '24** Selected to attend [Amazon ML Summer School 2024](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india) virtually from over 17,000 students from India.
