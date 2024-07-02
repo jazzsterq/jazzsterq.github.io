@@ -24,7 +24,7 @@
 
 --- 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/jazzsterq"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -50,7 +50,7 @@
 
 ---
 
-## My Projects
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> My Projects
 <div style="padding-left: 10%; padding-right: 10%; text-align: center;">
   <table style="width: 80%; margin: 0 auto;">
     <tr>
@@ -88,7 +88,8 @@
 
 ---
 
-## 🏆 My Achievements 
+## 🏆 My Achievements
+
 <br><br>
 * **July '24** Selected to attend [Amazon ML Summer School 2024](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india) virtually from over 17,000 students from India.
 * **May '24** Secured **Rank 3** among the students of IIT Guwahati in KIMO’s-Edge ’23 Tech Quiz Competition.
