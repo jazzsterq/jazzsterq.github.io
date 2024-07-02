@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saundarya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ECE+Student+during+day;Competitive+Programmer+at+night;Expert(1611)+on+Codeforces;(4+Stars,1959)+on+CodeChef;6+Kyu(1068,green)+on+AtCoder;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Electronics+Student+during+day;Competitive+Programmer+at+night;Expert(1611)+on+Codeforces;(4+Stars,1959)+on+CodeChef;6+Kyu(1068,green)+on+AtCoder;" alt="Typing SVG" /></a>
 </p>
 </p>
 <br>
