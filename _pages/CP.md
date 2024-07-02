@@ -20,6 +20,6 @@ I happen to be into CP (making it my passion in the 2nd year).
 	&emsp;
 	<a href="https://www.codechef.com/users/jazzsterq"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
-
+<!-- 
 Problem Discussions:
-1. [LeetCode](./lc.md)
+1. [LeetCode](./lc.md) -->
