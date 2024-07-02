@@ -22,6 +22,7 @@
 <!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
 <br>
 
+--- 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
@@ -35,6 +36,8 @@
 	<a href="https://www.codechef.com/users/jazzsterq"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
 
+---
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:sk.jazzsterq@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -47,7 +50,7 @@
 
 ---
 
-### My Projects
+## My Projects
 <div style="padding-left: 10%; padding-right: 10%; text-align: center;">
   <table style="width: 80%; margin: 0 auto;">
     <tr>
@@ -93,7 +96,7 @@
 * **Dec '23** Secured **1st** place (Gold Medal) among **21 IITs** in the Inter IIT Tech Meet 12.0! Check out the project [here](https://t.ly/airline)!
 * **Dec '23** Reached Semi-finals in JAM Competition in Inter IIT Cult Meet 6.0 !
 * **Nov '23** Secured **India Rank 11** among **10,000+ participants** in the CSAW'23 Capture The Flag(CTF) event.
-* **Oct'23** Qualified Rounds 0 and 1 in the META Hacker Cup.
+* **Oct'23** Qualified Rounds 0 and 1 in the META Hacker Cup 2023.
 * **July '23** Upgraded my branch to Electronics & Communication Engineering at [IIT Guwahati](https://iitg.ac.in/) !
 * **Oct '22** Started studying B. Tech in Chemical Engineering at [IIT Guwahati](https://iitg.ac.in/).
 <!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
