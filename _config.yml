@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gautam Sharma"
+title                    : "Saundarya Keshari"
 title_separator          : "-"
-name                     : &name "Gautam Sharma"
-description              : &description "CSE Undergrad at IITG"
-url                      : "https://g-s01.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Saundarya Keshari"
+description              : &description "ECE Undergrad at IITG"
+url                      : "https://jazzsterq.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jazzsterq/jazzsterq.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gautam Sharma"
-  avatar           : "profile.png"
-  bio              : "Competitve Programmer, CSE Undergrad at IITG"
+  name             : "Saundarya Keshari"
+  avatar           : "profile.jpg"
+  bio              : "Competitve Programmer, ECE Undergrad at IITG"
   location         : "Guwahati, Assam, India"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "gautam.sharma@iitg.ac.in"
-  personal email   : "g-s01@outlook.com"
+  email            : "s.keshari@iitg.ac.in"
+  personal email   : "saundaryakeshari2512@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "g-s01"
+  github           : "jazzsterq"
   google_plus      :
   keybase          :
-  instagram        : "sharma.gautam1"
+  instagram        : "_saundaryakeshari"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "g-s01"
+  linkedin         : "saundaryakeshari"
   orcid            : 
   pinterest        :
   soundcloud       :
