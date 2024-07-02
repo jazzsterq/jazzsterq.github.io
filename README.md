@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saundarya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Communications+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Communications+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
@@ -14,11 +14,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am currently in my pre-final year, studying [Electronics and Communications Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
-- :student: I’m currently studying computer science and electronics engineering.
-- :nerd_face: Always `learning new things`.
+- I am currently in my pre-final year, studying [Electronics and Communications Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
+- I love using Software as a solution for every `Problem`.
+- I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
+- I’m currently studying computer science and electronics engineering.
+- Always `learning new things`.
 <!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
 <br>
 
@@ -192,13 +192,13 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/aryanlath/Passenger-Recovery-Optimization" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
+          <img src="/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
           <p align="center"><b>Passenger Recovery Optimization</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/sarthakkapoor44/DBMS-with-C" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
+          <img src="/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
           <p align="center"><b>DBMS Using C</b></p>
         </a>
       </td>
@@ -206,13 +206,13 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
+          <img src="/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
           <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/harshit089/Dark-Web-Scraper" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
+          <img src="/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
           <p align="center"><b>Dark Web Scraper</b></p>
         </a>
       </td>
