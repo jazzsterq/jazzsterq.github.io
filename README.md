@@ -81,6 +81,7 @@
   </table>
 </div>
 
+--- 
 
 ## 🛠️ My Skills
 
@@ -143,7 +144,7 @@
 </p>
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Software & Tools
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture>  ### Software & Tools
 
 <p align="center">
   &emsp;
@@ -172,7 +173,7 @@
 
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> ### Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -189,7 +190,7 @@
  
 </p>
 
-### <picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> Frameworks
+<picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> ### Frameworks
 
 <p align="center">
   &emsp;
@@ -204,7 +205,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> ### Operating Systems
  
 <p align="center">
   &emsp;
