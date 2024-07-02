@@ -81,7 +81,25 @@
   </table>
 </div>
 
---- 
+
+
+---
+
+## 🏆 My Achievements 
+<br><br>
+* **July '24** Selected to attend [Amazon ML Summer School 2024](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india) virtually from over 17,000 students from India.
+* **May '24** Secured **Rank 3** among the students of IIT Guwahati in KIMO’s-Edge ’23 Tech Quiz Competition.
+* **Apr '24** Became the JAM Head at Debating Society, IIT Guwahati!
+* **Dec '23** Secured **1st** place (Gold Medal) among **21 IITs** in the Inter IIT Tech Meet 12.0! Check out the project [here](https://t.ly/airline)!
+* **Dec '23** Reached Semi-finals in JAM Competition in Inter IIT Cult Meet 6.0 !
+* **Nov '23** Secured **India Rank 11** among **10,000+ participants** in the CSAW'23 Capture The Flag(CTF) event.
+* **Oct'23** Qualified Rounds 0 and 1 in the META Hacker Cup.
+* **July '23** Upgraded my branch to Electronics & Communication Engineering at [IIT Guwahati](https://iitg.ac.in/) !
+* **Oct '22** Started studying B. Tech in Chemical Engineering at [IIT Guwahati](https://iitg.ac.in/).
+<!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
+<br>
+
+---
 
 ## 🛠️ My Skills
 
@@ -144,7 +162,7 @@
 </p>
 
 
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture>  ### Software & Tools
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Software & Tools
 
 <p align="center">
   &emsp;
@@ -173,7 +191,7 @@
 
 
 
- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> ### Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -190,7 +208,7 @@
  
 </p>
 
-<picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> ### Frameworks
+### <picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> Frameworks
 
 <p align="center">
   &emsp;
@@ -205,7 +223,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a>
 </p>
 
-  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> ### Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
