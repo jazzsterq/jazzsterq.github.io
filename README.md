@@ -13,7 +13,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 - I am currently in my pre-final year, studying [Electronics and Communications Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
 - I love using Software as a solution for every `Problem`.
 - I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
@@ -90,7 +89,6 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> My Achievements
 
-<br>
 * **July '24** Selected to attend [Amazon ML Summer School 2024](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india) virtually from over 17,000 students from India.
 * **May '24** Secured **Rank 3** among the students of IIT Guwahati in KIMO’s-Edge ’23 Tech Quiz Competition.
 * **Apr '24** Became the JAM Head at Debating Society, IIT Guwahati!
