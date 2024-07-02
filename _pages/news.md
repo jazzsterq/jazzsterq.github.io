@@ -12,5 +12,5 @@ author_profile: true
 * **Dec '23** Reached Semi-finals in JAM Competition in Inter IIT Cult Meet 6.0 !
 * **Nov '23** Secured **India Rank 11** among **10,000+ participants** in the CSAW'23 Capture The Flag(CTF) event.
 * **Oct'23** Qualified Rounds 0 and 1 in the META Hacker Cup.
-* **July '23** Changed my branch to Electronics & Communication Engineering at [IIT Guwahati](https://iitg.ac.in/) !
+* **July '23** Upgraded my branch to Electronics & Communication Engineering at [IIT Guwahati](https://iitg.ac.in/) !
 * **Oct '22** Started studying B. Tech in Chemical Engineering at [IIT Guwahati](https://iitg.ac.in/).
