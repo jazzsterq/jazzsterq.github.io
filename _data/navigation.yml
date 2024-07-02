@@ -15,8 +15,8 @@ main:
   - title: "Education"
     url: /edu/
 
-  - title: "Photography"
-    url: /photos/
+  # - title: "Photography"
+  #   url: /photos/
 
   - title: "CP"
     url: /cp/
