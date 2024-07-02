@@ -50,7 +50,7 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> My Projects
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> My Projects
 <div style="padding-left: 10%; padding-right: 10%; text-align: center;">
   <table style="width: 80%; margin: 0 auto;">
     <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🏆 My Achievements
+## <picture> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> </picture> My Achievements
 
 <br><br>
 * **July '24** Selected to attend [Amazon ML Summer School 2024](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india) virtually from over 17,000 students from India.
